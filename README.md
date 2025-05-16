@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Juan Pablo, a Software and Embeeded Enginer. In love with the embedded world, and it's applications.</p>
+<p align="left">I'm Juan Pablo, a Data and Software Embeeded Enginer. In love with the embedded world, and it's applications.</p>
 
 ###
 
